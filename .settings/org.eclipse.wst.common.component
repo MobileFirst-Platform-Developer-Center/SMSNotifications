@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="module_42_0_SMSNotifications">
+        <wb-resource deploy-path="/" source-path="/apps/SMSReceiverApp/android"/>
+        <wb-resource deploy-path="/" source-path="/apps/SMSReceiverApp/common"/>
+        <property name="context-root" value="module_42_0_SMSNotifications"/>
+    </wb-module>
+</project-modules>
