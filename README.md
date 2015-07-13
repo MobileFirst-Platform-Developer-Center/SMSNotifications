@@ -1,13 +1,13 @@
 IBM MobileFirst Platform Foundation
 ===
-### Sample Name
+### SMS Notifications
 
 
 ### Usage
-Follow the instructions in the tutorials listed below.
+Follow the instructions in the tutorial(s) listed below.
 
 ### Tutorials
-
+https://developer.ibm.com/mobilefirstplatform/documentation/getting-started-7-1/foundation/notifications/sms-notifications/
 
 ### Supported Levels
 IBM MobileFirst Platform Foundation 7.1
