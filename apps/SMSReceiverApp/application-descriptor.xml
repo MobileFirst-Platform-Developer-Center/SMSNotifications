@@ -15,7 +15,7 @@ See the License for the specific language governing permissions and
 limitations under the License.
 -->
 <!-- Attribute "id" must be identical to application folder name -->
-<application xmlns="http://www.worklight.com/application-descriptor" id="SMSReceiverApp" platformVersion="7.0.0.00.20150227-0916">
+<application xmlns="http://www.worklight.com/application-descriptor" id="SMSReceiverApp" platformVersion="7.1.0.00.20150728-0630">
     <displayName>SMSReceiverApp</displayName>
     <description>SMSReceiverApp</description>
     <author>
@@ -28,7 +28,7 @@ limitations under the License.
     <features/>
     <thumbnailImage>common/images/thumbnail.png</thumbnailImage>
     <smsGateway id="myGateway"/>
-    <android version="1.0" securityTest="SMSRealm-mobile-securityTest">
+    <android securityTest="SMSRealm-mobile-securityTest" version="1.0">
         <worklightSettings include="false"/>
         <security>
             <encryptWebResources enabled="false"/>
